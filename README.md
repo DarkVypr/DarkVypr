@@ -1,5 +1,9 @@
-Hello  <img src="https://i.imgur.com/4suuDhK.gif">
+Hello  <img src="https://i.imgur.com/4suuDhK.gif" 
+     width="50" 
+     height="50" />
 
 
-https://darkvypr.cf <<--- <img src="https://i.imgur.com/2yKnDla.png"> check out the website 
+https://darkvypr.cf <<--- <img src="https://i.imgur.com/2yKnDla.png" 
+     width="100" 
+     height="30" />  check out the website
 

@@ -2,7 +2,7 @@ Hello  <img src="https://i.imgur.com/4suuDhK.gif"
      width="50" 
      height="50" />
 
-I'm learning Python and know simple regex that about it xd
+I'm learning Python and know simple regex thats about it xd
 
 https://darkvypr.cf <<--- <img src="https://i.imgur.com/2yKnDla.png" 
      width="100" 

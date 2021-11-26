@@ -9,10 +9,10 @@ http://twitter.darkvypr.com, http://twitch.darkvypr.com and http://git.darkvypr.
 
 ---
 
-# 🤖 VyprBot - A scuffed twitch chat bot for my chat. 🤖
+# 🤖 VyprBot - A scuffed twitch chat bot 🤖
 
 
-I made a scuffed bot called [VyprBot](https://www.twitch.tv/vyprbot). It's mainly meant for [my chat](https://www.twitch.tv/popout/darkvypr/chat?popout=) but I'm also accepting requests for the bot to be added to others.
+I made a scuffed bot called [VyprBot](https://www.twitch.tv/vyprbot). It was originally meant for [my chat](https://www.twitch.tv/popout/darkvypr/chat?popout=) but I'm also accepting requests for the bot to be added to others.
 
 ---
 

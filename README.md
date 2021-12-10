@@ -12,8 +12,12 @@ http://twitter.darkvypr.com, http://twitch.darkvypr.com and http://git.darkvypr.
 # 🤖 VyprBot - A scuffed twitch chat bot 🤖
 
 
-I made a scuffed bot called [VyprBot](https://www.twitch.tv/vyprbot). It was originally meant for [my chat](https://www.twitch.tv/popout/darkvypr/chat?popout=) but I'm also accepting requests for the bot to be added to others.
+### Bot Info
+
+VyprBot is a general-purpose bot with user-based commands, a loyalty system and other interesting and fun commands to check out. I started this bot with 0 knowledge of Node.JS on November 12, 2021. This bot started as a personal project, but eventualy turned into something that I found fun and engaging. I don't see it fizzling out of existence any time soon.
 
 ---
 
-That's it for now.
+### How can I get the bot in my chat?
+
+If you would like this bot to be added to your chat, make sure to read [the commands page](https://darkvypr.com/commands) before asking. After reading, you can use the !suggest command in the bot's chat. Go to [its chat](https://twitch.tv/vyprbot) and use the !vbsuggest command. Example: "`!vbsuggest I would like the bot to be added to my chat!`". Once I read the suggestion, you will recieve a DM on Twitch from the bot saying if you were accepted or denied. I probably wont deny any bot addition requests, but some suggestions may be.

@@ -2,11 +2,6 @@
 
 This was originally just somthing I made to have a single link with all of my stuff. I expanded it so I can host images [under i](https://i.darkvypr.com), files [under files](https://files.darkvypr.com) and code for my bot [under code](https://code.darkvypr.com). 
 
-I also added redirects like:
-
-
-http://twitter.darkvypr.com, http://twitch.darkvypr.com and http://git.darkvypr.com.
-
 ---
 
 # 🤖 VyprBot - A scuffed twitch chat bot 🤖

@@ -4,7 +4,7 @@ This was originally just somthing I made to have a single link with all of my st
 
 ---
 
-# 🤖 VyprBot - A scuffed twitch chat bot 🤖
+# 🤖 [VyprBot - A scuffed twitch chat bot](https://bot.darkvypr.com) 🤖
 
 
 ### Bot Info

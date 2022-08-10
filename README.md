@@ -1,6 +1,6 @@
 # 🖥️ [My Website](https://darkvypr.com) 🌎
 
-This was originally just somthing I made to have a single link with all of my stuff. I expanded it so I can host images [under i](https://i.darkvypr.com), files [under files](https://files.darkvypr.com) and code for my bot [under code](https://code.darkvypr.com). 
+This was originally just somthing I made to have a single link with all of my stuff. I expanded it so I can host images and cool shit.
 
 ---
 
